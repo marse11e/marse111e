@@ -75,7 +75,6 @@
 <details>
     <summary>Contact</summary>
     <div id="header" align="center">
-        <code>
             <img width="15px" height="15px" src="./icons/discord.png" alt=""/>
             <img width="15px" height="15px" src="./icons/facebook.png" alt=""/>
             <img width="15px" height="15px" src="./icons/linkedin.png" alt=""/>
@@ -86,7 +85,7 @@
             <img width="15px" height="15px" src="./icons/youtube.png" alt=""/>
             <img width="15px" height="15px" src="./icons/gmail.png" alt=""/>
             <img width="15px" height="15px" src="./icons/instagram.png" alt=""/>
-        </code><br>
+        <br>
         <a href='https://t.me/MarselleNaz'>Telegram</a> -
         <a href='https://instagram.com/marselle.naz'>Instagram</a>
     </div>
