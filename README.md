@@ -1,16 +1,5 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-    <div id="badges">
-        <a href="https://instagram.com/marselle.naz">
-            <img
-                src="https://img.shields.io/badge/Instagram-cadetblue?style=for-the-badge&logo=Instagram&logoColor=white" />
-        </a>
-        <a href="https://t.me/MarselleNaz">
-            <img
-                src="https://img.shields.io/badge/Telegram-cadetblue?style=for-the-badge&logo=Telegram&logoColor=white" />
-        </a>
-        <br>
-    </div>
 </div>
 
 
@@ -21,7 +10,7 @@
     <li>Currently working on an open-source project called 
         <a href="https://github.com/marse11e/Discussion-Forum-Django">Discussion Forum</a>
     </li>
-    <li>I have completed my secondary education and have 3.5 years of experience as a Python developer</li>
+    <li>Graduated with a degree in Computer Science and 3.5 years of experience as a Python developer</li>
     <li>Passionate about various technologies including AWS, Docker, Kubernetes, Django, FastAPI, Flutter, React, Vue.js, and more</li>
     <li>Proficient in Adobe Creative Suite tools like Photoshop, Illustrator, After Effects, and more</li>
     <li>Active on social media 
@@ -71,25 +60,12 @@
 </details>
 
 
-
-<details>
-    <summary>Contact</summary>
-    <div id="header" align="center">
-            <img width="15px" height="15px" src="./icons/discord.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/facebook.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/linkedin.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/pinterst.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/telegram.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/vk.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/whatsapp.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/youtube.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/gmail.png" alt=""/>
-            <img width="15px" height="15px" src="./icons/instagram.png" alt=""/>
-        <br>
-        <a href='https://t.me/MarselleNaz'>Telegram</a> -
-        <a href='https://instagram.com/marselle.naz'>Instagram</a>
-    </div>
-</details>
+<div id="header" align="center">
+    <img src="https://komarev.com/ghpvc/?username=marse11e&style=flat-square&color=yellow"/>
+    <a href="https://user-badge.committers.top/kazakhstan_private/marse11e">
+        <img src="https://user-badge.committers.top/kazakhstan_private/marse11e.svg" alt="committers.top badge">
+    </a>
+</div>
 
 
 <pre>
@@ -98,8 +74,17 @@
 
 
 <div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=marse11e&style=flat-square&color=yellow" alt=""/>
-    <a href="https://user-badge.committers.top/kazakhstan_private/marse11e">
-        <img src="https://user-badge.committers.top/kazakhstan_private/marse11e.svg" alt="committers.top badge">
-    </a>
+        <img width="15px" height="15px" src="./icons/discord.png" />
+        <img width="15px" height="15px" src="./icons/facebook.png" />
+        <img width="15px" height="15px" src="./icons/linkedin.png" />
+        <img width="15px" height="15px" src="./icons/pinterst.png" />
+        <img width="15px" height="15px" src="./icons/telegram.png" />
+        <img width="15px" height="15px" src="./icons/vk.png" />
+        <img width="15px" height="15px" src="./icons/whatsapp.png" />
+        <img width="15px" height="15px" src="./icons/youtube.png" />
+        <img width="15px" height="15px" src="./icons/gmail.png" />
+        <img width="15px" height="15px" src="./icons/instagram.png" />
+    <br>
+    <a href='https://t.me/MarselleNaz'>Telegram</a> -
+    <a href='https://instagram.com/marselle.naz'>Instagram</a>
 </div>
