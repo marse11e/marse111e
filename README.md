@@ -60,11 +60,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=radical&hide_border=true">
     <img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="950px">
 </details>
+<br>
 
+```python
+# pip install stegano
 
-<pre>
+from stegano import lsb
+secret = lsb.hide('image.png', 'очень секретный текст')
+secret.save('secret_image.png')
 
-</pre>
+print(lsb.reveal('secret_image.png'))
+```
 
 
 <div id="header" align="center">
