@@ -20,7 +20,7 @@
         <a href="https://github.com/marse11e/Discussion-Forum-Django">Discussion Forum</a>
     </li>
     <li>Graduated with a degree in Computer Science and 3.5 years of experience as a Python developer</li>
-    <li>Passionate about various technologies including AWS, Docker, Kubernetes, Django, FastAPI, Flutter, React, Vue.js, and more</li>
+    <li>Passionate about various technologies including Redis, Docker, Django, RESTful, FastAPI, GraphQL and more</li>
     <li>Proficient in Adobe Creative Suite tools like Photoshop, Illustrator, After Effects, and more</li>
     <li>Active on social media 
         <a href="https://t.me/MarselleNaz">Telegram</a> and 
