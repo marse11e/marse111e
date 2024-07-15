@@ -60,7 +60,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=radical&hide_border=true">
     <img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="950px">
 </details>
-<br>
+
+
+### Hide secret text inside an image using Python.
 
 ```python
 # pip install stegano
