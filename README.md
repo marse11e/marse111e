@@ -92,5 +92,6 @@ print(lsb.reveal('secret_image.png'))
     <img width="15px" height="15px" src="./icons/instagram.png" />
     <br>
     <a href='https://t.me/MarselleNaz'>Telegram</a> -
-    <a href='https://instagram.com/marselle.naz'>Instagram</a>
+    <a href='https://instagram.com/marselle.naz'>Instagram</a> - 
+    <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
 </div>
