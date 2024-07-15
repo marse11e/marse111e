@@ -1,8 +1,12 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+    <a href="https://github.com/marse11e">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+    </a>    
 </div>
 <div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=marse11e&style=flat-square&color=yellow"/>
+    <a href="https://github.com/marse11e">
+        <img src="https://komarev.com/ghpvc/?username=marse11e&style=flat-square&color=yellow"/>
+    </a>
     <a href="https://user-badge.committers.top/kazakhstan_private/marse11e">
         <img src="https://user-badge.committers.top/kazakhstan_private/marse11e.svg" alt="committers.top badge">
     </a>
@@ -76,6 +80,7 @@ print(lsb.reveal('secret_image.png'))
 
 
 <div id="header" align="center">
+    <a href="https://github.com/marse11e">
         <img width="15px" height="15px" src="./icons/discord.png" />
         <img width="15px" height="15px" src="./icons/facebook.png" />
         <img width="15px" height="15px" src="./icons/linkedin.png" />
@@ -86,6 +91,7 @@ print(lsb.reveal('secret_image.png'))
         <img width="15px" height="15px" src="./icons/youtube.png" />
         <img width="15px" height="15px" src="./icons/gmail.png" />
         <img width="15px" height="15px" src="./icons/instagram.png" />
+    </a>
     <br>
     <a href='https://t.me/MarselleNaz'>Telegram</a> -
     <a href='https://instagram.com/marselle.naz'>Instagram</a>
