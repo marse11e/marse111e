@@ -80,18 +80,16 @@ print(lsb.reveal('secret_image.png'))
 
 
 <div id="header" align="center">
-    <a href="https://github.com/marse11e">
-        <img width="15px" height="15px" src="./icons/discord.png" />
-        <img width="15px" height="15px" src="./icons/facebook.png" />
-        <img width="15px" height="15px" src="./icons/linkedin.png" />
-        <img width="15px" height="15px" src="./icons/pinterst.png" />
-        <img width="15px" height="15px" src="./icons/telegram.png" />
-        <img width="15px" height="15px" src="./icons/vk.png" />
-        <img width="15px" height="15px" src="./icons/whatsapp.png" />
-        <img width="15px" height="15px" src="./icons/youtube.png" />
-        <img width="15px" height="15px" src="./icons/gmail.png" />
-        <img width="15px" height="15px" src="./icons/instagram.png" />
-    </a>
+    <img width="15px" height="15px" src="./icons/discord.png" />
+    <img width="15px" height="15px" src="./icons/facebook.png" />
+    <img width="15px" height="15px" src="./icons/linkedin.png" />
+    <img width="15px" height="15px" src="./icons/pinterst.png" />
+    <img width="15px" height="15px" src="./icons/telegram.png" />
+    <img width="15px" height="15px" src="./icons/vk.png" />
+    <img width="15px" height="15px" src="./icons/whatsapp.png" />
+    <img width="15px" height="15px" src="./icons/youtube.png" />
+    <img width="15px" height="15px" src="./icons/gmail.png" />
+    <img width="15px" height="15px" src="./icons/instagram.png" />
     <br>
     <a href='https://t.me/MarselleNaz'>Telegram</a> -
     <a href='https://instagram.com/marselle.naz'>Instagram</a>
