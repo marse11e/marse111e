@@ -5,7 +5,7 @@
 </div>
 <div id="header" align="center">
     <a href="https://github.com/marse11e">
-        <img src="https://komarev.com/ghpvc/?username=marse11e&style=flat-circle&color=yellow"/>
+        <img src="https://komarev.com/ghpvc/?username=marse11e&style=flat-circle&color=green"/>
     </a>
     <a href="https://user-badge.committers.top/kazakhstan_private/marse11e">
         <img src="https://user-badge.committers.top/kazakhstan_private/marse11e.svg" alt="committers.top badge">
