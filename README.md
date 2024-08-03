@@ -32,7 +32,7 @@
 <h2><b>Specialization</b></h2>
 <p>While I have a diverse skill set across various technologies, my primary focus is on <strong>Backend Development</strong>. I have extensive experience working with Django, Django REST Framework, FastAPI, Flask, GraphQL, and RESTful API design. This focus allows me to build robust and scalable backend systems, ensuring seamless integration with frontend interfaces and efficient data management.</p>
 <p>Additionally, I have recently embarked on studying artificial intelligence and have been actively writing <strong>AI-related</strong> code. This new direction complements my backend expertise and broadens my ability to develop intelligent, data-driven applications.</p>
-<h2><b>Skills & Technologies</b></h2>
+<h2><b>Skills & Technologies for 2024.01</b></h2>
 <ul>
     <li><strong>Cloud Platforms & Infrastructure:</strong> AWS, Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean</li>
     <li><strong>DevOps & CI/CD:</strong> Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab CI/CD, CircleCI</li>
